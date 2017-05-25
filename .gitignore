@@ -27,3 +27,4 @@ nbdist/
 .nb-gradle/
 /gradle/
 
+src/main/resources/
